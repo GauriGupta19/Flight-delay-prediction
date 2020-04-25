@@ -15,4 +15,4 @@ Basically, the predictive model shall be able to answer the following question:
 Given the departure information, by how many minutes will be the arrival of the flight be delayed?
 
 ## Model validation
-Employed various supervised machine learninh techniques such as Decision Trees with Minimum Cost Complexity Pruning, Random Forests, Bagging with trees, Artificial Neural Network and KNN and performed hyper-parameter tuninig for optimal results
+Employed various supervised machine learninh techniques such as Decision Trees with Minimum Cost Complexity Pruning, Random Forests, Bagging with trees, Artificial Neural Network and KNN and performed hyper-parameter tuninig for optimal results.
